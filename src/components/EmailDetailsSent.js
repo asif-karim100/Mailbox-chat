@@ -9,7 +9,7 @@ const EmailDetailsSent = () => {
 
   /////if used this inbox is working
 //   const emails = useSelector((state) => state.mail.emails);
-
+//
 
   // const email = emails.find((mail) => {
   //   return params.mailid === mail.id;

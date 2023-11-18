@@ -36,7 +36,7 @@ const EmailBody = ({ from, subject, msg, timeStamp, id }) => {
   };
 
 
-  /// code
+  /// code//
   const handleIconButtonClick = async (e) => {
     // e.preventDefault();
     e.stopPropagation();
