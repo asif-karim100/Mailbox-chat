@@ -8,7 +8,7 @@ import Folders from './components/Folders';
 
 
 ///////////////install all packages like reacticon,bootstrap and see the package have to
-// install first 
+// install first //
 
 const App = () => {
   return (
