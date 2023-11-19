@@ -7,6 +7,7 @@ const mailSlice = createSlice({
     emails: [],
     sent : [],
   },
+  /////
 
   reducers: {
     openSendMessage: (state) => {
